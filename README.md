@@ -1,2 +1,3 @@
 # umd-clingfu
- tips to organizing researc
+ University of Maryland
+ INST408F Repository
